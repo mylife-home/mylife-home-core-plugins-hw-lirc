@@ -1,9 +1,9 @@
 {
-  "name": "mylife-home-core-plugins-hw-sysfs",
+  "name": "mylife-home-core-plugins-hw-lirc",
   "version": "0.0.1",
-  "description": "Mylife Home Core Plugin: HW sysfs",
+  "description": "Mylife Home Core Plugin: HW LIRC",
   "main": "index.js",
-  "repository": "https://github.com/vincent-tr/mylife-home-core-plugins-hw-sysfs",
+  "repository": "https://github.com/vincent-tr/mylife-home-core-plugins-hw-lirc",
   "author": "Vincent Trumpff",
   "dependencies": {
     "log4js": "*",
