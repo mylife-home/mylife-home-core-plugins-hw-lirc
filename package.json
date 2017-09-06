@@ -7,7 +7,7 @@
   "author": "Vincent Trumpff",
   "dependencies": {
     "log4js": "*",
-    "lirc-client": "vincent-tr/lirc-client"
+    "lirc-client": "*"
   },
   "devDependencies": {
     "chai": "*",
