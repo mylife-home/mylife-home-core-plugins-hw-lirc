@@ -6,7 +6,6 @@
   "repository": "https://github.com/mylife-home/mylife-home-core-plugins-hw-lirc",
   "author": "Vincent Trumpff",
   "dependencies": {
-    "log4js": "*",
     "lirc-client": "*"
   },
   "devDependencies": {
